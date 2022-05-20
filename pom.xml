@@ -14,7 +14,7 @@
              https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-maven-plugin/
           -->
         <jettyVersion>9.4.9.v20180320</jettyVersion>
-        <gsonVersion>2.8.5</gsonVersion>
+        <gsonVersion>2.8.9</gsonVersion>
     </properties>
 
     <dependencies>
